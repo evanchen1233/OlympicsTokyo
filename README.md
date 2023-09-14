@@ -1,6 +1,6 @@
 # OlympicsTokyo
 
-## Introduction
+## Goal
 The objective of this project is to implement data modeling with snowflake schema and ETL process on Olympics Tokyo data. The process included extracting data from csv files and loading into MySql database. The data will be transformed by using Python and Apache Spark following below ERD, which then will be ready for further analysis. 
 
 
